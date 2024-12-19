@@ -1,0 +1,59 @@
+about [
+{
+title: "",
+description: "",
+caption:"",
+image:"",
+},
+]
+
+contact [
+{
+title: "",
+description: "",
+caption:"",
+},
+]
+
+conseil [
+{
+title: "",
+description: "",
+caption:"",
+image:"",
+},
+]
+
+especes [
+category:"",
+details: [
+{
+type: "",
+titleFr: "",
+titleAr: "",
+titleSt: "",
+description: "",
+caption:"",
+image:"",
+},
+]
+]
+
+circuits [
+{
+type: "polygon, line",
+title: "",
+description: "",
+caption:"",
+coordPosition:"",
+image:"",
+},
+]
+
+otherinfo [
+{
+coordPosition:"",
+},
+]
+
+
